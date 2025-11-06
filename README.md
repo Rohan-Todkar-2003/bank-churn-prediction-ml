@@ -113,13 +113,14 @@ This project implements a **comprehensive Machine Learning pipeline** to predict
 ### 🏆 Model Comparison Table
 
 | Model | Accuracy | Precision | Recall | F1-Score | Best For |
-|-------|----------|-----------|--------|----------|----------|
-| **LightGBM** 🏆 | 90.94% | 92.92% | 88.64% | 90.73 | Overall Performance |
-| **XGBoost** 🥈 | 90.55% | 92.73% | 88.01% | 90.31 | High Precision |
-| **Random Forest** 🌲 | 86.31% | 86.76% | 85.72% | 86.24 | Stability |
-| **Decision Tree** 🌳 | 86.28% | 85.76% | 87.02% | 86.38 | Interpretability |
-| **K-Nearest Neighbors** 🎯 | 70.26% | 66.84% | 80.48% | 73.03 | High Recall |
-| **Logistic Regression** 📊 | 70.68% | 70.76% | 70.56% | 70.66 | Baseline |
+|:------|:---------:|:----------:|:------:|:--------:|:---------|
+| **LightGBM 🏆** | **91.20%** | **93.47%** | **88.67%** | **91.02** | **Overall Performance** |
+| **XGBoost 🥈** | **90.63%** | **92.91%** | **88.07%** | **90.42** | **High Precision** |
+| Random Forest 🌲 | 86.42% | 86.73% | 86.13% | 86.43 | Stability |
+| Decision Tree 🌳 | 86.94% | 86.47% | 87.72% | 87.09 | Interpretability |
+| K-Nearest Neighbors 🎯 | 71.16% | 67.67% | 81.52% | 73.95 | High Recall |
+| Logistic Regression 📊 | 71.29% | 70.98% | 72.45% | 71.71 | Baseline |
+
 
 ### 🎯 Key Findings
 

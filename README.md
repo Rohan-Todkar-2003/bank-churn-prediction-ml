@@ -506,7 +506,7 @@ Tools & Tech:      Python • Scikit-learn • TensorFlow • PyTorch • SQL
 
 | Resource | Link |
 |----------|------|
-| **Live Demo** | [Streamlit App](https://bank-churn-prediction.streamlit.app) |
+| **Live Demo** | [Streamlit App](https://bank-churn-prediction-by-rohan-todkar-2003.streamlit.app/) |
 | **Jupyter Notebook** | [View Notebook](https://github.com/Rohan-Todkar-2003/bank-churn-prediction/blob/main/notebooks/bank_churn_prediction.ipynb) |
 | **Issues & Discussions** | [GitHub Issues](https://github.com/Rohan-Todkar-2003/bank-churn-prediction/issues) |
 

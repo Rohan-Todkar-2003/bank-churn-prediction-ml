@@ -10,3 +10,4 @@ shap
 joblib
 imbalanced-learn
 streamlit-aggrid
+plotly
